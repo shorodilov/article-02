@@ -1,22 +1,9 @@
-# Article Template
+# Enter IT - Beginner's Guide
 
-This repository provides a simple and structured template for writing
-articles intended for online publication or print in periodicals.
-It's designed to help authors focus on content rather than presentation,
-using Pandoc to generate the final document from source files.
-
-## Requirements
-
-- [Pandoc](https://pandoc.org/) (2.11 or later)
-- LaTeX distribution (optional, for PDF output)
-- Make (optional, for build scripts)
-
-## License
-
-This template is available under the MIT License.
-See the LICENSE file for details.
-
-## Contributing
-
-Contributions to improve this template are welcome.
-Please feel free to submit issues or pull requests.
+This repository contains an article that provides a practical guide for
+beginners who are looking to enter the IT industry.
+The article analyzes different motivation factors, offers various learning
+paths (self-education, IT courses, formal education), and emphasizes the
+importance of making conscious career choices. It also covers practical advice
+on skill development, working with documentation, pet projects, and
+participation in open source development.
