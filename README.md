@@ -1,5 +1,9 @@
 # Enter IT - Beginners' Guide
 
+> [!IMPORTANT]
+> The content has been merged into the **publications collections** at
+> https://github.com/shorodilov/publications.git
+
 This repository contains an article that provides a detailed guide for newbies
 and provide practical advises on beginning the career as software developer.
 
